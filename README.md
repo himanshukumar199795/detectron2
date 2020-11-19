@@ -1,6 +1,8 @@
-# DETECTRON2 local windows 10 setup
+# DETECTRON2 local windows 10 setup for CPU
 
 ## This setup can be used for prediction or model testing
+
+
 
 * install python 3.7.0 (as tested) : [python 3.7.0 exe](https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64.exe)
 * install visual studio  for C++ 14.0: [Click here](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16)
