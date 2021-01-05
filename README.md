@@ -28,11 +28,7 @@ pip install git+https://github.com/facebookresearch/fvcore
   ```
 * Clone detectron2 repo & run setup
 ```
-git clone https://github.com/conansherry/detectron2.git
+git clone https://github.com/facebookresearch/detectron2.git
 pip install -e detectron2
 
-```
-* Test installation:
-```
-python detectron2/tests/test_boxes.py
 ```
