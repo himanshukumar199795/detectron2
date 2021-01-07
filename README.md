@@ -32,3 +32,8 @@ git clone https://github.com/facebookresearch/detectron2.git
 pip install -e detectron2
 
 ```
+# Detectron2 CPU Inference
+
+### can be used for deployment model
+once done with above installation install suporting library such as numpy,opencv.
+run detectron2 notebook for image prediction.
